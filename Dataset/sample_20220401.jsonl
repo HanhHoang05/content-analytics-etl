@@ -97,4 +97,4 @@
 {"_index":"history","_type":"kplus","_id":"AX_mommea1FFivsGroUy","_score":0,"_source":{"Contract":"BID007040","Mac":"10394E4293C3","TotalDuration":713,"AppName":"KPLUS"}}
 {"_index":"history","_type":"kplus","_id":"AX_momnGa1FFivsGroVD","_score":0,"_source":{"Contract":"HUFD03854","Mac":"B84DEED3F1BB","TotalDuration":334,"AppName":"KPLUS"}}
 {"_index":"history","_type":"kplus","_id":"AX_momnGa1FFivsGroVI","_score":0,"_source":{"Contract":"SGAAB4094","Mac":"10394E429816","TotalDuration":333,"AppName":"KPLUS"}}
-{"_index":"history","_type":"kplus","_id":"AX_momnGa1FFivsGroVN","_score":0,"_source":{"Contract":"QNH003753","Mac":"10394E1371D3","TotalDuration":332,"AppName":"KPLUS"}}
+
