@@ -1,2 +1,5 @@
 # content-analytics-etl
-PySpark ETL pipeline for analyzing customer content viewing behavior. Processes daily JSON logs to generate insights on content preferences, watching patterns, and user activity segmentation.
+PySpark ETL pipeline for analyzing customer viewing behavior from daily JSON logs.
+- Process multi-day JSON logs with date range input
+- Analyze viewing patterns across TV, VOD, Sports, Entertainment, and Children's content
+- Generate customer insights: most-watched category, taste profile, activity level
