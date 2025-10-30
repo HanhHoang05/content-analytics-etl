@@ -97,4 +97,3 @@
 {"_index":"history","_type":"vod","_id":"AX_ru_M2a1FFivsGrq84","_score":0,"_source":{"Contract":"THD008965","Mac":"E89EB419C509","TotalDuration":14777,"AppName":"VOD"}}
 {"_index":"history","_type":"vod","_id":"AX_ru_M2a1FFivsGrq89","_score":0,"_source":{"Contract":"DAFD31817","Mac":"E89EB419E0F8","TotalDuration":27574,"AppName":"VOD"}}
 {"_index":"history","_type":"vod","_id":"AX_ru_M2a1FFivsGrq9E","_score":0,"_source":{"Contract":"SGH359461","Mac":"F8DA0C35AA55","TotalDuration":28536,"AppName":"VOD"}}
-{"_index":"history","_type":"vod","_id":"AX_ru_M2a1FFivsGrq9J","_score":0,"_source":{"Contract":"QNFD33505","Mac":"FC017C506F06","TotalDuration":22996,"AppName":"VOD"}}
